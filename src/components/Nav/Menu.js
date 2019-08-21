@@ -8,7 +8,8 @@ const MenuWrap = styled.div`
 const routes = [
   {name: 'Home', path: '/'},
   {name: 'About Us', path: '/about-us'},
-  {name: 'Services', path: '/services'}
+  {name: 'Services', path: '/services'},
+  {name: 'Partners', path: '/partners'}
 ]
 const MenuItems = styled(Link)`
 color: ${props => props.white ? '#fff' : '#000'};

@@ -1,7 +1,6 @@
 import React from 'react'
 import Layout from '../../components/Layouts/Layout'
 import styled from 'styled-components'
-import Card from './component/Card'
 import {Row, Col} from '../../components/Grid'
 import Container from '../../components/Styled/Container'
 import Footer from '../../components/Footer'
