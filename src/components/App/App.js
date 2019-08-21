@@ -4,7 +4,7 @@ import BaseLayout from '../Layouts/BaseLayout'
 import NormalizedStyles from '../Styled/NormalizedStyles'
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <NormalizedStyles/>
       <BaseLayout/>
     </Router>
