@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DalerLeo/create-app/static/css/main.52128000.chunk.css",
-    "main.js": "/DalerLeo/create-app/static/js/main.5ebb6d65.chunk.js",
-    "main.js.map": "/DalerLeo/create-app/static/js/main.5ebb6d65.chunk.js.map",
-    "runtime~main.js": "/DalerLeo/create-app/static/js/runtime~main.3eb8742f.js",
-    "runtime~main.js.map": "/DalerLeo/create-app/static/js/runtime~main.3eb8742f.js.map",
-    "static/js/2.27919ba9.chunk.js": "/DalerLeo/create-app/static/js/2.27919ba9.chunk.js",
-    "static/js/2.27919ba9.chunk.js.map": "/DalerLeo/create-app/static/js/2.27919ba9.chunk.js.map",
-    "index.html": "/DalerLeo/create-app/index.html",
-    "precache-manifest.f39b5967312b155cdc5f1e08f79d5ac4.js": "/DalerLeo/create-app/precache-manifest.f39b5967312b155cdc5f1e08f79d5ac4.js",
-    "service-worker.js": "/DalerLeo/create-app/service-worker.js",
-    "static/css/main.52128000.chunk.css.map": "/DalerLeo/create-app/static/css/main.52128000.chunk.css.map"
+    "main.css": "/create-app/static/css/main.52128000.chunk.css",
+    "main.js": "/create-app/static/js/main.9da3f065.chunk.js",
+    "main.js.map": "/create-app/static/js/main.9da3f065.chunk.js.map",
+    "runtime~main.js": "/create-app/static/js/runtime~main.3168cf49.js",
+    "runtime~main.js.map": "/create-app/static/js/runtime~main.3168cf49.js.map",
+    "static/js/2.8fa26a1f.chunk.js": "/create-app/static/js/2.8fa26a1f.chunk.js",
+    "static/js/2.8fa26a1f.chunk.js.map": "/create-app/static/js/2.8fa26a1f.chunk.js.map",
+    "index.html": "/create-app/index.html",
+    "precache-manifest.434d8ded860bc2013d16c7a9d071ac0b.js": "/create-app/precache-manifest.434d8ded860bc2013d16c7a9d071ac0b.js",
+    "service-worker.js": "/create-app/service-worker.js",
+    "static/css/main.52128000.chunk.css.map": "/create-app/static/css/main.52128000.chunk.css.map"
   }
 }
