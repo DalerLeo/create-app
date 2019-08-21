@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DalerLeo/create-app/precache-manifest.08535bacbda23b2fd4c8d76fbf01dbf4.js"
+  "/DalerLeo/create-app/precache-manifest.f39b5967312b155cdc5f1e08f79d5ac4.js"
 );
 
 self.addEventListener('message', (event) => {

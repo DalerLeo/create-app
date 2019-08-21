@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e093016343fda9232ee666f21ffe99d",
+    "revision": "0be364ab8cfce10c1c09b38d743f364d",
     "url": "/DalerLeo/create-app/index.html"
   },
   {
-    "revision": "28b82c7f33df662d8dcd",
+    "revision": "e8dff084f03fd6173f1b",
     "url": "/DalerLeo/create-app/static/css/main.52128000.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DalerLeo/create-app/static/js/2.27919ba9.chunk.js"
   },
   {
-    "revision": "28b82c7f33df662d8dcd",
-    "url": "/DalerLeo/create-app/static/js/main.00bcdde5.chunk.js"
+    "revision": "e8dff084f03fd6173f1b",
+    "url": "/DalerLeo/create-app/static/js/main.5ebb6d65.chunk.js"
   },
   {
     "revision": "c29586c9e03b4d61c7dc",
