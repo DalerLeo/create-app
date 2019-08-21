@@ -1,18 +1,26 @@
 import React from 'react'
 import Nav from '../Nav'
+import Container from '../Styled/Container'
 import styled from 'styled-components'
 
-const Container = styled.div`
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 15px
+const Title = styled.div`
+  padding: 50px 0;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 46px;
+  color: #fff;
+  background-color: #000;
+  text-align: center;
 `
-const Layout = ({children}) => {
+const Layout = ({children, title}) => {
   return (
-    <Container>
-    <Nav/>
+    <>
+      <Container>
+        <Nav/>
+      </Container>
+      {title && <Title>{title}</Title>}
       {children}
-  </Container>
+  </>
   )
 }
 
